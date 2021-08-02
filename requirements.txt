@@ -1,0 +1,17 @@
+We need to install the below softwares in order to run this application
+
+1 Download python and install
+Link : www.python.org
+
+2 Download SUMO and install
+Link : www.eclipse.org/sumo/
+
+3 Install tensorflow and keras API
+Link to download tensorflow: www.tensorflow.org
+Link to download keras : use the command "pip install keras"
+
+4 Install OpenCV library
+use the command "pip install opencv-python"
+
+5 Install blender to run the animation 
+Link to download blender: www.blender.org
